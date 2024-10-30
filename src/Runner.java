@@ -29,8 +29,10 @@ public class Runner {
 
         //localde değişiklik
 
-        //dev2 nin yaptığı değişiklik    
-        //----------------------
+        //techpro branchinde değişiklik
+        //*******************
+
+
 
     }
 }

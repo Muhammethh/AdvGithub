@@ -29,8 +29,8 @@ public class Runner {
 
         //localde değişiklik
 
-        //remote repoda değişiklik
-
+        //dev2 nin yaptığı değişiklik    
+        //----------------------
 
     }
 }
